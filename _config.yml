@@ -1,0 +1,28 @@
+name: Marvin Carlos
+favicon: null
+layout_spectrum: 0.6741397005971521
+typography_spectrum: 0.5525975611526519
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7937865403946489
+  lightness: 0.8497146794106811
+  saturation: 0.8063797317445278
+  rhythmicContrast: 0.9622227300424129
+purpose: []
